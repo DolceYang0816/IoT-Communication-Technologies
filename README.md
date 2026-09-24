@@ -1,6 +1,6 @@
 ## IoT-Communication-Technologies
 
-Handwritten notes from my undergraduate IoT Communication Technologies course.
+Digital notes from my undergraduate IoT Communication Technologies course.
 
 ### Course Information
 
