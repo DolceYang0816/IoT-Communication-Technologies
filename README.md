@@ -7,5 +7,5 @@ Digital notes from my undergraduate IoT Communication Technologies course.
 - School: School of Computer Science and Technology
 - Major: Internet of Things Engineering
 - Level: Undergraduate
-- Semester: Year 3 Semester 1
+- Semester: Year 3 Semester 2
 - Grade: 98
