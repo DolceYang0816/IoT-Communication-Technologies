@@ -1,2 +1,11 @@
-# IoT-Communication-Technologies
-Undergraduate IoT Communication Technologies notes | CS IoT | Year 3 Semester 1 | Grade: 98
+## IoT-Communication-Technologies
+
+Handwritten notes from my undergraduate IoT Communication Technologies course.
+
+### Course Information
+
+- School: School of Computer Science and Technology
+- Major: Internet of Things Engineering
+- Level: Undergraduate
+- Semester: Year 3 Semester 1
+- Grade: 98
